@@ -149,6 +149,16 @@ footer {
         display: block;
     }
 
+    .navlist li a {
+        font-size: 3.25rem;
+    }
+
+    .another_wrapper {
+        width: 430px;
+        margin: 10px 0px;
+        padding: 5px 5px;
+    }
+
     #name {
         width: 100%;
         padding: 5px;
@@ -159,16 +169,16 @@ footer {
     .navlist li {
         justify-content: space-around;
         margin: 5px;
-        padding: 5px;
+       
     }
 
     .navlist li a {
-        font-size: 1.25rem;
+        font-size: 3.25rem;
     }
 
     .another_wrapper {
-        width: 430px;
         margin: 10px 0px;
+        width: 430px;
         padding: 5px 5px;
     }
 
